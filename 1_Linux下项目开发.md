@@ -251,7 +251,7 @@ ctags -R --c++-kinds=+p --fields=+iaS --extra=+q src_dir
 
 --extra=+q: 为标签增加类修饰符。注意，如果没有此选项，将不能对类成员补全
 
-**使用ctags **
+**使用ctags**
 
 vim 正常模式下输入 ctrl + ] 跳转到定义。
 

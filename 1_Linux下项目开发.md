@@ -49,7 +49,7 @@ Centos中安装ftp上传下载文件工具: yum install lrzsz
 
 正常模式(normal-mode)
 
-模式的转换
+**模式的转换**
 
 - 其它模式==>正常模式   
 
